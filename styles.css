@@ -248,6 +248,7 @@ main > p{
 #peak{
     position: relative;
     top: 4rem;
+    width: 350px;
 }
 
 /* ---------- Contact Paragraph Styles ---------- */
