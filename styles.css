@@ -248,7 +248,7 @@ main > p{
 #peak{
     position: relative;
     top: 4rem;
-    width: 200;
+    width: 200px;
 }
 
 /* ---------- Contact Paragraph Styles ---------- */
@@ -282,7 +282,6 @@ footer{
     justify-items: center;
     position: relative;
     top: -23rem;
-    margin-bottom: none ;
     padding-top: 2rem;
     padding-bottom: 2rem;
     line-height: 2;
