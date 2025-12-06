@@ -129,7 +129,10 @@ ul a{
     text-decoration: none;
     font-weight: bold;
 }
-
+ul a:hover{
+    font-size: 24pt;
+    transition-duration: 500ms;
+}
 /* ---------- Index Page Main Styles ---------- */
 main > h2, main > p{
     display: flex;
